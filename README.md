@@ -8,4 +8,4 @@ Implemented robust features like Play, Pause, Seek, and Forward song controls, e
 Created web application with responsive design using Tailwind CSS for smooth adaptation and optimal viewing on all screen sizes
 Showcased frontend and UI design skills with Material UI, effectively replicating the aesthetics of Spotify's web application
 
-You can visit the project at the given link 
+You can visit the project at the given link https://shashank3233.github.io/Spotify-Clone/
